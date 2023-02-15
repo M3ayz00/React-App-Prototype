@@ -17,7 +17,7 @@ function App() {
         playing={false}
         controls
         volume={0.5} />
-      <Intro1/>
+      <Intro1 />
       <Intro2/>
       <Intro3/>
       <Footer/>
